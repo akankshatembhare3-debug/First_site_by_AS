@@ -1,0 +1,1 @@
+print("Fake news detwector is running...")
